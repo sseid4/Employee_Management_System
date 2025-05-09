@@ -1,0 +1,38 @@
+=== Employee Report ===
+Generated: 2025-04-14T20:05:49.084853
+
+ID: 1
+Name: Shamonte
+SSN: 123456789
+Job Title: student
+Division: school
+Salary: $1234567.0
+-------------------------------
+ID: 2
+Name: Shamonte  Knight
+SSN: 123456789
+Job Title: Student
+Division: GSU
+Salary: $12000.0
+-------------------------------
+ID: 3
+Name: Knightt
+SSN: 123323564
+Job Title: Student
+Division: GSU
+Salary: $123888.0
+-------------------------------
+ID: 4
+Name: JESSY
+SSN: 656547653
+Job Title: Student
+Division: gsu
+Salary: $1234.77
+-------------------------------
+ID: 5
+Name: Drew
+SSN: 887546374
+Job Title: Newbie
+Division: Non-Student
+Salary: $100000.0
+-------------------------------
