@@ -97,4 +97,3 @@ EmpowerPro is a JavaFX-based desktop application for managing employee records, 
 
 
 ---
-
