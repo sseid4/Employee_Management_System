@@ -1,5 +1,5 @@
 # Employee_Management_System
-![App Walkthrough](walkthrough.gif)
+![App Walkthrough](AppWalkthrough.gif)
 # EmpowerPro Employee Management System
 
 
